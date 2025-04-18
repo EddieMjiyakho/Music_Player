@@ -1,10 +1,10 @@
 # 🎵 MP3 Player Project
 
-A basic yet functional MP3 player built using **HTML**, **CSS**, and **JavaScript**, designed to help you learn and practice essential web development concepts—especially JavaScript array and string methods.
+A basic yet functional MP3 player built using **HTML**, **CSS**, and **JavaScript**, designed to help learn and practice essential web development concepts—especially JavaScript array and string methods.
 
 ## 🚀 What You'll Learn
 
-This project is perfect for beginners and intermediate developers looking to strengthen their understanding of:
+This project was perfect for a juniour developer like me looking to strengthen their understanding of:
 
 - 🔁 JavaScript array methods: `find()`, `forEach()`, `map()`, and `join()`
 - 🎧 Audio playback handling in JavaScript
@@ -28,15 +28,11 @@ This project is perfect for beginners and intermediate developers looking to str
 
 ## 🧠 Concepts Practiced
 
-This project gives you hands-on experience with:
+This project gave me hands-on experience with:
 
 - JavaScript's `find()`, `map()`, `forEach()`, and `join()` methods
 - DOM manipulation for real-time UI changes
 - Handling browser audio API with `<audio>` elements
-
-## 🖼️ Preview
-
-(Include screenshots or a screen recording here if you like)
 
 ## 🔧 How to Run
 
