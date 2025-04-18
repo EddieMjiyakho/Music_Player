@@ -2,7 +2,7 @@
 
 A basic yet functional MP3 player built using **HTML**, **CSS**, and **JavaScript**, designed to help learn and practice essential web development concepts—especially JavaScript array and string methods.
 
-## 🚀 What You'll Learn
+## 🚀 What I Learned
 
 This project was perfect for a juniour developer like me looking to strengthen their understanding of:
 
